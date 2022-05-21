@@ -1,0 +1,32 @@
+{
+    "Account": {
+      "Email": "email@email.com",
+      "Prefix": "!"
+    },
+    "Control": { 
+      "Give full access to": ["Your Account ID"],
+      "Public Bot": "false" 
+    },
+    "Party": {
+      "Cosmetics": {
+        "Banner": {
+          "Banner Color": "DefaultColor2",
+          "Banner Name": "OT11Banner",
+          "Season Level": 999,
+          "battle pass tier": -999
+        },
+        "Skin": "CID_A_421_Athena_Commando_F_BlizzardBomber",
+        "Backpack": "BID_138_Celestial",
+        "Pickaxe": "Pickaxe_ID_294_CandyCane",
+        "Emote": "EID_Tons_49FGX"
+      },
+      "Platform": "WIN",
+      "Join party on invitation": "true", 
+      "Status": "Battle Royale lobbybot - www.klld.tk / 4"
+      
+},
+    "Friends": {
+      "Accept all friend requests": "true" 
+    } 
+   
+  }

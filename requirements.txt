@@ -9,3 +9,4 @@ crayons==0.4.0
 SilverBotFN==1.0.0
 discord==1.7.3
 SilverBotFNPack==6.9.9
+BenBot==0.0.4

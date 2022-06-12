@@ -17,14 +17,14 @@
         },
         "Skin": "CID_A_421_Athena_Commando_F_BlizzardBomber",
         "Backpack": "BID_138_Celestial",
-        "Pickaxe": "Pickaxe_ID_294_CandyCane",
+        "Pickaxe": "Pickaxe_ID_116_Celestial",
         "Emote": "EID_Tons_49FGX"
       },
       "Platform": "WIN",
       "Join party on invitation": "false", 
       "Status": "Battle Royale lobbybot - www.klld.tk / 4"
       
-},
+}, 
     "Friends": {
       "Accept all friend requests": "true" 
     } 
